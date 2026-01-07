@@ -1,0 +1,18 @@
+body{
+text-align: center;
+  background-color: rgb(164, 131, 152);
+ 
+}
+.head{
+
+  background-color: rgb(10, 98, 221);
+  color: antiquewhite;
+}
+#kimg{
+  height: 400px;
+  width: 1500px;
+}
+footer{
+  height: 80px;
+  background-color: rgb(158, 87, 11);
+}
